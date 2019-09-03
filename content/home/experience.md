@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "Humboldt State Cognition Lab"
   company_url = ""
-  location = "California"
+  location = "Arcata, California"
   date_start = "2018-08-01"
   date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
