@@ -39,6 +39,12 @@ date_format = "Jan 2006"
   location = "Arcata, California"
   date_start = "2018-08-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Responsibilities include:
+  
+  * Data Analysis
+  * Experimental Design
+  * Running Participants through Experiments
+  """
 
 +++
