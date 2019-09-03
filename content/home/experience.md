@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Humboldt State Social Identity Lab"
   company_url = "https://hsusocialidentitylab.wixsite.com/silabhsu"
   location = "Arcata, California"
-  date_start = "Sept 2018"
+  date_start = "2018"
   date_end = ""
   description = """
   Responsibilities include:
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company = "Humboldt State Cognition Lab"
   company_url = ""
   location = "Arcata, California"
-  date_start = "Aug 2018"
+  date_start = "2018"
   date_end = ""
   description = """
   Responsibilities include:
