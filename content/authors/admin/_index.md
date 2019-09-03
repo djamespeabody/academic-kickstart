@@ -56,5 +56,5 @@ user_groups:
 - Visitors
 ---
 
-James Peabody is a graduate student pursuing an M.A. is Psychology with an emphasis in Academic Research at Humboldt State University. His concentration is in Social Psychology. His research interests are focused on using the social identity approach to understand group processes and intergroup relations in U.S. politics.
+James Peabody is a graduate student pursuing an M.A. in Psychology with an emphasis in Academic Research at Humboldt State University. His concentration is in Social Psychology. His research interests are focused on using the social identity approach to understand group processes and intergroup relations in U.S. politics.
 
