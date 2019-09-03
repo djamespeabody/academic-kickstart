@@ -15,7 +15,7 @@ role: Graduate Student in Psychology
 # Organizations/Affiliations
 organizations:
 - name: Humboldt State University
-  url: ""
+  url: "https://hsusocialidentitylab.wixsite.com/silabhsu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social identity theory.
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Pursuing M.A. in Psychology with an emphasis in Academic Research
+  - course: Pursuing M.A. in Psychology
     institution: Humboldt State University
     year: 2021
   
