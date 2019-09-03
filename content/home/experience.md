@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Experimental Design
   * Running Participants
   * Website Management
+  
   """
 
 [[experience]]
@@ -46,6 +47,7 @@ date_format = "Jan 2006"
   * Data Analytics
   * Experimental Design
   * Running Participants
+  
   """
 
 +++
