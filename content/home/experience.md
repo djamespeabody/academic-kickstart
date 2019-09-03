@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Arcata, California"
   date_start = "2018"
-  date_end = ""
+  date_end = "5"
   description = """
   Responsibilities include:
   
