@@ -44,7 +44,34 @@ date_format = "Jan 2006"
   
   * Data Analysis
   * Experimental Design
-  * Running Participants through Experiments
+  * Running Participants through Experimental Procedures
   """
 
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "Cognition Lab, Humboldt State University"
+  company_url = ""
+  location = "Arcata, California"
+  date_start = "2018-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data Analysis
+  * Experimental Design
+  * Running Participants through Experimental Procedures
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Intergroup Relations Lab, Humboldt State University"
+  company_url = ""
+  location = "Arcata, California"
+  date_start = "2018-08-01"
+  date_end = "2019-05-15"
+  description = """
+  Responsibilities include:
+  
+  * Running Participants through Experimental Procedures
+  """
 +++
