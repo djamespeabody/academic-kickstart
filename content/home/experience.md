@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "California"
   date_start = "2018-08-01"
-  date_end = "2016-12-31"
+  date_end = ""
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
