@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant & Website Manager"
-  company = "Humboldt State Social Identity Lab"
-  company_url = ""
+  company = "Social Identity Lab, Humboldt State University"
+  company_url = "https://hsusocialidentitylab.wixsite.com/silabhsu"
   location = "Arcata, California"
   date_start = "2018-09-01"
   date_end = ""
