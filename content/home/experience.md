@@ -70,7 +70,7 @@ date_format = "Jan 2006"
   date_start = "2018-08-01"
   date_end = "2019-05-15"
   description = """
-  Responsibilities include:
+  Responsibilities included:
   
   * Running Participants through Experimental Procedures
   """
