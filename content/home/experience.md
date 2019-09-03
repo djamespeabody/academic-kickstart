@@ -47,20 +47,6 @@ date_format = "Jan 2006"
   * Running Participants through Experimental Procedures
   """
 
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "Cognition Lab, Humboldt State University"
-  company_url = ""
-  location = "Arcata, California"
-  date_start = "2018-08-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Data Analysis
-  * Experimental Design
-  * Running Participants through Experimental Procedures
-  """
   
 [[experience]]
   title = "Research Assistant"
